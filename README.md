@@ -1,10 +1,9 @@
 # Practica-scraping-backmarket
 Scraping de la pagina backmarket
 
-# La busqueda que se realiza con el scraping son las siguientes palabras:
-  1.- Iphone
-  2.- Samsung
-  3.- HTC
+# La busqueda que realiza el scraping es en la siguiente dirección https://www.backmarket.com/en-us buscando las siguientes palabras:
+  Iphone, Samsung y HTC.
+
 ![image](https://github.com/78wlado/practica-scraping-black-market/assets/136178520/41f1f92a-e363-4c9d-9d50-a1d2a11bf36e)
 
 # Se obtiene como resultado de cada búsqueda es todo los teléfono con el modelo, características y precio.
