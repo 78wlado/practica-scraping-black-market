@@ -1,2 +1,2 @@
-# practica-scraping-black-market
-Practica en casa scraping black market
+# Practica-scraping-black-market
+Scraping de la pagina black market
